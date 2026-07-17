@@ -9,7 +9,7 @@
 ## 🚀 서비스 이용 안내
 실제 탐방 운영 환경을 확인하시려면 아래 링크를 클릭해 주세요.
 
-👉 **[경복궁 탐정 수첩 웹 앱 실행하기]([https://shyeonq15.github.io/gyeongbokgung-detective/](https://script.google.com/macros/s/AKfycbwBxTejwuHi2sXlki54wWY5o9P4eqDm4h0ZzfS1--gOj2AI2YyKnnB-QF2sdgpnDOrK/exec))**
+👉 **[경복궁 탐정 수첩 웹 앱 실행하기]([https://shyeonq15.github.io/gyeongbokgung-detective/(https://script.google.com/macros/s/AKfycbwBxTejwuHi2sXlki54wWY5o9P4eqDm4h0ZzfS1--gOj2AI2YyKnnB-QF2sdgpnDOrK/exec))**
 
 ---
 
