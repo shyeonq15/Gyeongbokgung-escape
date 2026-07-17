@@ -11,6 +11,8 @@
 
 👉 **[경복궁 탐정 수첩 웹 앱 실행하기](https://script.google.com/macros/s/AKfycbwBxTejwuHi2sXlki54wWY5o9P4eqDm4h0ZzfS1--gOj2AI2YyKnnB-QF2sdgpnDOrK/exec)**
 
+관리자(교사) 접속 비밀번호: 9999
+
 ---
 
 ## 💡 프로젝트 소개
